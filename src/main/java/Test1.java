@@ -3,7 +3,9 @@ public class Test1 {
         System.out.println(System.currentTimeMillis());
 
 
-        Integer b = new Integer(3);
+        Integer h = new Integer(3);
+
+        Integer h1 = new Integer(34);
 
     }
 }
